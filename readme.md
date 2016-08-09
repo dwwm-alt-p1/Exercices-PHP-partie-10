@@ -1,4 +1,5 @@
 #PHP - TP
+**Pour tous les exercices, il faut soigner son CSS**
 ##TP 1
 Faire une page pour enregistrer un futur apprenant. On devra pouvoir saisir les informations suivantes :  
 - Nom
@@ -18,7 +19,6 @@ Faire une page pour enregistrer un futur apprenant. On devra pouvoir saisir les 
 - Avez vous déjà eu une expérience avec la programmation et/ou l'informatique avant de remplir ce formulaire ?
 
 A la validation de ces informations, il faudra les afficher dans la même page à la place du formulaire.   
-**Il faut soigner le CSS**
 
 ##TP 2
 Faire une page permettant de saisir les informations suivantes :
