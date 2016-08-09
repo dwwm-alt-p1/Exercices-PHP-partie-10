@@ -28,7 +28,7 @@ Faire une page permettant de saisir les informations suivantes :
 - Age
 - Société
 
-A la validation, les données saisies devront aparaitre sous le formulaire. **Attention** les données devront rester dans les différents éléments du formulaire.
+A la validation, les données saisies devront aparaitre sous le formulaire. **Attention** les données devront rester dans les différents éléments du formulaire même après la validation.
 
 ##TP 3
 Faire une fonction qui permet d'afficher les données des tableaux suivants :
