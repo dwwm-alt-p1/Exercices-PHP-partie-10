@@ -9,7 +9,7 @@ Faire une page pour enregistrer un futur apprenant. On devra pouvoir saisir les 
 - Adresse
 - Email
 - Téléphone
-- Diplome (sans, Bac, Bac+2, Bac+3 ou supérieur)
+- Diplôme (sans, Bac, Bac+2, Bac+3 ou supérieur)
 - Numéro pôle emploi
 - Nombre de badge
 - Liens codecademy
