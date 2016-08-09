@@ -19,3 +19,13 @@ Faire une page pour enregistrer un futur apprenant. On devra pouvoir saisir les 
 
 A la validation de ces informations, il faudra les afficher dans la même page à la place du formulaire.   
 **Il faut soigner le CSS**
+
+##TP 2
+Faire une page permettant de saisir les informations suivantes :
+- Civilité (liste déroulante)
+- Nom
+- Prénom
+- Age
+- Société
+
+A la validation, les données saisies devront aparaitre sous le formulaire. **Attention** les données devront rester dans les différents éléments du formulaire.
