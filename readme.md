@@ -1,6 +1,6 @@
-#PHP - TP
+# PHP - TP
 **Pour tous les exercices, il faut soigner son CSS**
-##TP 1
+## TP 1
 Faire une page pour enregistrer un futur apprenant. On devra pouvoir saisir les informations suivantes :  
 - Nom
 - Prénom
@@ -20,7 +20,7 @@ Faire une page pour enregistrer un futur apprenant. On devra pouvoir saisir les 
 
 A la validation de ces informations, il faudra les afficher dans la même page à la place du formulaire.   
 
-##TP 2
+## TP 2
 Faire une page permettant de saisir les informations suivantes :
 - Civilité (liste déroulante)
 - Nom
@@ -30,7 +30,7 @@ Faire une page permettant de saisir les informations suivantes :
 
 A la validation, les données saisies devront aparaitre sous le formulaire. **Attention** les données devront rester dans les différents éléments du formulaire même après la validation.
 
-##TP 3
+## TP 3
 Faire une fonction qui permet d'afficher les données des tableaux suivants :
 
 
